@@ -1,0 +1,17 @@
+{
+  "name": "echarts-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "echarts": "^5.3.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "vue": "^2.6.14",
+    "vue-hot-reload-api": "^2.3.4"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.39",
+    "@types/vue": "^2.0.0",
+    "@vue/component-compiler-utils": "^3.3.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
